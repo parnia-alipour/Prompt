@@ -10,7 +10,7 @@ for example, Elon Musk(**Only for product creation ideas!!!! Not just for making
 [Dream Studio](https://www.bing.com/ck/a?!&&p=c47b3c8970ac5e76af214b3b16f65279fcc7c03f5a4a89ded91e59e0cbb5f2beJmltdHM9MTc2OTEyNjQwMA&ptn=3&ver=2&hsh=4&fclid=072a2562-5abd-633b-109c-33115b52628f&psq=dream+studeio&u=a1aHR0cHM6Ly9kcmVhbXN0dWRpby5zdGFiaWxpdHkuYWkv)
 
 ---
-**Prompt for generating names for stores related to selling products:**
+### **Prompt for generating names related to stores selling products, or names for a product:**
 
 Generate ten perfect names for {```product```} {```Inspired by:``` (**this part is optional**)} that have 
 ```seed word```: words you want in the name,
