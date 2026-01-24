@@ -22,3 +22,6 @@ Put the names in a table and score them based on catchiness, uniqueness, simplic
 [Grok](https://grok.com/)
 
 [Copilot](https://copilot.microsoft.com/)
+
+
+
