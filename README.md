@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src=https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/image3.png?raw=true width="700" />
+</div>
+
 ## **Prompt for creating images to advertise products:**
 
 Build for me {```Product Name```: you can use the photo I uploaded} {```Inspired by```: this part is optional, you can leave it blank or say, 
