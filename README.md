@@ -7,8 +7,7 @@ for example, Elon Musk(**Only for product creation ideas!!!! Not just for making
 
 
 ---
-
-## **Prompt for generating names related to stores selling products, or names for a product:**
+ selling products, or names for a product:**
 
 
 Generate ten perfect names for {```product```} {```Inspired by:``` (**this part is optional**)} that have 
@@ -16,11 +15,14 @@ Generate ten perfect names for {```product```} {```Inspired by:``` (**this part 
 ```product names```: close to the product and give a few easy examples. 
 Put the names in a table and score them based on catchiness, uniqueness, simplicity. Apply the Goody function to each name and give a score based on the Goody function.
 
-
+<div align="center">
+  <img src="https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/1.png?raw=true" width="700" />
+</div>
 
 
 ---
 
+## **Prompt for generating names related to stores
 ## **A useful prompt (you can ask any question and even turn it into a translator).**
 
 For example:
