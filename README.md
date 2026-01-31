@@ -55,6 +55,8 @@ Predict: My dad and mom bought me a super cute wool sweater for my birthday as a
 Please explain the topic {...} as if you are talking to a 5-year-old (depending on your choice, it can also be a teenager, a student, etc.).
 
 
+---
+
 ## **A prompt for writing articles and books:**
 
 Sometimes we want to write an article or a book, and GPT tokens may not support it. In that case, we use the following prompt:
@@ -65,6 +67,7 @@ Can you give me a general structure and writing format for an article on {digita
 When AI has structured it for you, then ask it to explain each section fully and in detail, and finally combine all the writing components together for you.😊
 
 ---
+
 ## **A prompt for translation:**
 Step 1: Take any text enclosed in triple quotation marks, summarize it, and place it next to "summary."
 
@@ -72,6 +75,7 @@ Step 2: Now translate the summarized text into Spanish and place it next to "tra
 
 
 ---
+
 ## **A prompt for presenting in any format or gathering information:**
 
 Set your GPT or AI to search mode and ask it to gather information from the web about the topic you want to present. You can request this information in CSV or PowerPoint format, and it will share it with you for download (●'◡'●).
@@ -102,6 +106,7 @@ Is a marketer someone who buys and sells fruit?(It will definitely answer "I don
 )
 
 ---
+
 ## **A prompt for creating a prompt:**
 
 Sometimes you can get help from the AI itself to create a prompt about the topic you want, or another method is to say: “I am a prompt expert.” Please provide me with a prompt structure, for example, for generating a car image.
@@ -114,6 +119,7 @@ Sometimes you can get help from the AI itself to create a prompt about the topic
 
 ---
 
+### **A prompt for writing a job promotion request letter:**
 
 I want to request a job promotion from my boss. Use the following information to create an attractive and effective letter:
 Information about yourself:
@@ -155,6 +161,7 @@ Like one of the previous examples, we copy each section that is sent to us and s
 ***The reason for doing this is the token limitation in GPT, which we mentioned earlier in one of the examples***
 
 ---
+
 ## **A prompt for selecting a professional title or providing 5 average titles:**
 
 
