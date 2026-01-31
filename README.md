@@ -148,8 +148,6 @@ By just saying this sentence, the AI’s hallucination rate is greatly reduced o
 
 Please go step by step and tell me the number of smokers in the world.
 
-## **A prompt for generating a title for a text:**
-
 
 
 ## **A prompt for writing an article:**
