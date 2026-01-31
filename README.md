@@ -12,7 +12,7 @@ for example, Elon Musk(**Only for product creation ideas!!!! Not just for making
 
 
 ---
- selling products, or names for a product:**
+### **A prompt for generating a product name or a store name:**
 
 
 Generate ten perfect names for {```product```} {```Inspired by:``` (**this part is optional**)} that have 
@@ -27,7 +27,6 @@ Put the names in a table and score them based on catchiness, uniqueness, simplic
 
 ---
 
-## **Prompt for generating names related to stores
 ## **A useful prompt (you can ask any question and even turn it into a translator).**
 
 For example:
