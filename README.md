@@ -141,7 +141,7 @@ Provide a final answer indicating whether the text in brackets and the summarize
 
 ---
 
-## **A prompt for generating a title for a text:**
+## **A prompt for reducing AI hallucination::**
 
 This is the magic sentence: ```Take it step by step```
 By just saying this sentence, the AI’s hallucination rate is greatly reduced or it may not hallucinate at all.
