@@ -197,15 +197,17 @@ ___
 
 One of the ways you can make your work easier is by converting your text into JSON format.
 
+```json
 {
   "vibe": "{}",
   "style": "{}",
-  "Personality, physical appearance, and moral traitsPersonality, physical appearance, and moral traits": "{}",
+  "traitsPersonality, physical appearance, and moral traitsPersonality, physical appearance, and moral traits": "{}",
   "age": "{}",
-    "Description":{},
+    "Description":"{}",
     "The place where he/she is present":"{}"
  
   }
+```
 
 ---
 
