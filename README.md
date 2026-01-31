@@ -192,3 +192,29 @@ For the text enclosed in triple quotation marks, please choose the single best t
 
 **Title**:
 ___
+
+### **A prompt for generating images or videos:**
+
+One of the ways you can make your work easier is by converting your text into JSON format.
+
+{
+  "vibe": "{}",
+  "style": "{}",
+  "Personality, physical appearance, and moral traitsPersonality, physical appearance, and moral traits": "{}",
+  "age": "{}",
+    "Description":{},
+    "The place where he/she is present":"{}"
+ 
+  }
+
+---
+
+### **A prompt for generating images or videos:(2)**
+
+You can split the text into sections to generate images or videos more effectively.
+
+Section 1:{.....}
+
+
+
+Section 2:{.....}
