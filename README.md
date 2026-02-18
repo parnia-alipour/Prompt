@@ -261,17 +261,17 @@ This image was created with Google Gemini; it has good quality in creating reali
 ### Professional prompt for generating a video with a completely realistic style
 
 
-Vertical 9:16 video with **8*K quality**, **ultra realistic**, and **completely cinematic**.
-Bring this person to life while standing in a military camp in the heart of the desert, before the start of the war. Military tents are placed all over the field, and their fabric gently moves with the soft warm **desert breeze**. Soldiers in the background are calmly and naturally moving around preparing equipment, with **organic and realistic movements**.
+Vertical 9:16 video with ```8K quality```, ```ultra realistic```, and ```completely cinematic```.
+Bring this person to life while standing in a military camp in the heart of the desert, before the start of the war. Military tents are placed all over the field, and their fabric gently moves with the soft warm desert breeze. Soldiers in the background are calmly and naturally moving around preparing equipment, with ```organic and realistic movements```.
 
-**Very high facial detail**, **natural skin texture** along with **subtle and realistic imperfections**, **accurate display of skin pores**, **natural skin tone** and **without yellowish skin**. The character is wearing a full military hat that is not half-worn or defective.
+```Very high facial detail```, ```natural skin texture``` along with ```subtle and realistic imperfections```, ```accurate display of skin pores```, ```natural skin tone``` and ```without yellowish skin```. The character is wearing a full military hat that is not half-worn or defective.
 
-**Slow** and **cinematic** camera movement toward the character’s face (**gentle push-in**), with **minimal natural movement** and **slight movement caused by breathing**.
+```Slow``` and ```cinematic``` camera movement toward the character’s face (```gentle push-in```), with ```minimal natural movement``` and ```slight movement caused by breathing```.
 
-**Filmed with a 35mm lens**, shallow depth of field and **deep cinematic composition**.
-**Appearance similar to filming with a professional DSLR camera**, **subtle noise like real film**, **natural color grading**.
+```Filmed with a 35mm lens```, shallow depth of field and ```deep cinematic composition```.
+```Appearance similar to filming with a professional DSLR camera```, ```subtle noise like real film```, ```natural color grading```.
 
-**No CGI effects**, **no cartoonish look**, **no plastic skin**, **no artificial shine**, **no unrealistic lighting**, **no over-sharpening**.
+```No CGI effects```, ```no cartoonish look```, ```no plastic skin```, ```no artificial shine```, ```no unrealistic lighting```, ```no over-sharpening```.
 
 
 
