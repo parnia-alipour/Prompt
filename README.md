@@ -246,7 +246,8 @@ You are a {professional marketing expert who can answer any question related to 
 
 Using the phrase **35mm camera** greatly enhances the realism of your photos and videos don’t hesitate to include it! 😊
 
-A Chinese girl standing in front of her temple, wearing a beautiful long white dress with shiny golden embroidery at the bottom of the skirt, depicted in a realistic and fully natural style, captured up close with a 35mm camera.
+“A Chinese girl standing in front of her temple, wearing a beautiful long white dress with shiny golden dragon embroidery at the bottom of the skirt, depicted in a realistic and fully natural style, captured up close with a 35mm camera.”
+
 
 Example:
 
