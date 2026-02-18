@@ -90,6 +90,7 @@ To get complete information about any topic, another way is to introduce yoursel
 
 I am a {professional marketer with a PhD in marketing}. Please explain the topic of marketing strategy in full for those who don’t know, and guide me in completing my article.
 
+---
 
 ## **A prompt to limit the model to its own verified knowledge so that it does not fabricate information:**
 
@@ -225,6 +226,31 @@ Section 1:{.....}
 
 Section 2:{.....}
 
-### A prompt for getting better results in any topic:**
+---
 
-You are a professional marketing expert who can answer any question related to this topic. You are highly skilled and intelligent in your field and capable of answering any question by researching, not by making things up. If the user asks you not to use complicated or fancy words, explain the topic in a simpler and clearer way. Otherwise, provide the most professional and advanced explanation you can.
+### **A prompt for getting better results in any topic:**
+
+You are a {professional marketing expert who can answer any question related to this topic. You are highly skilled and intelligent in your field and capable of answering any question by researching, not by making things up. If the user asks you not to use complicated or fancy words, explain the topic in a simpler and clearer way. Otherwise, provide the most professional and advanced explanation you can.
+
+---
+
+### Prompt for generating realistic images and videos:
+
+
+
+
+Using the phrase **35mm camera** greatly enhances the realism of your photos and videos don’t hesitate to include it! 😊
+
+A Chinese girl standing in front of her temple, wearing a beautiful long white dress with shiny golden embroidery at the bottom of the skirt, depicted in a realistic and fully natural style, captured up close with a 35mm camera.
+
+Example:
+
+<p align="center">
+  <img src="https://github.com/parnia-alipour/Prompt/blob/master/2%20(1).png?raw=true" width="400" style="border-radius:50%;">
+</p>
+
+This image was created with Google Gemini; it has good quality in creating realistic images, and when mixed with a prompt it works magic, and you have a completely realistic and natural image.
+
+
+---
+
