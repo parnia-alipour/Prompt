@@ -6,7 +6,7 @@
 ## **Prompt for creating images to advertise products:**
 
 Build for me {```Product Name```: you can use the photo I uploaded} {```Inspired by```: this part is optional, you can leave it blank or say, 
-for example, Elon Musk(**Only for product creation ideas!!!! Not just for making an advertising image!**)} {```Style Type``` } with the above details and studio lighting {Additional description about the environment, character, and idea you have in mind that you want to be created...}
+for example, Elon Musk {```Style Type``` } with the above details and studio lighting {Additional description about the environment, character, and idea you have in mind that you want to be created...}
 
 
 
