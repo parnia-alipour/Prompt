@@ -3,6 +3,11 @@
   <img src=https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/image3.png?raw=true width="700" />
 </div>
 
+
+### Dear ones, the photos uploaded in the repo are for you to get ideas and for generating images with different styles; you can use them.🫡✨
+
+
+
 ## **Prompt for creating images to advertise products:**
 
 Build for me {```Product Name```: you can use the photo I uploaded} {```Inspired by```: this part is optional, you can leave it blank or say, 
