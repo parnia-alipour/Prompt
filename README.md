@@ -49,7 +49,7 @@ Translator:
 
 Positive: My friend Sara bought a Gucci t-shirt from this store yesterday. She was really satisfied with it and kept praising it. At first, I thought this store was selling fake Gucci items, but after checking the quality of the clothes, the logo on the back, and doing some research online about this model, I was sure it’s authentic. I also ordered one for myself from them.
 
-Negative: Yesterday, I went into a shoe store that claimed to sell authentic items and bought a pair of Nike shoes. It felt like I was wearing boots—they were so heavy on my feet, and the material was really awful. I asked some of my friends who always buy branded items, and I found out they gave me a fake pair.
+Negative: Yesterday, I went into a shoe store that claimed to sell authentic items and bought a pair of Nike shoes. It felt like I was wearing boots they were so heavy on my feet, and the material was really awful. I asked some of my friends who always buy branded items, and I found out they gave me a fake pair.
 
 Predict: My dad and mom bought me a super cute wool sweater for my birthday as a gift, and I love it. The more I look at it, the more excited I get.
 
