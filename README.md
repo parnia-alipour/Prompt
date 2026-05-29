@@ -253,8 +253,7 @@ Create an image of a Chinese girl standing in front of her temple, wearing a bea
 Example:
 
 <p align="center">
-  <img src="https://github.com/parnia-alipour/Prompt/blob/master/2%20(1).png?raw=true" width="400" style="border-radius:50%;">
-</p>
+<img src="https://github.com/parnia-alipour/Prompt/blob/master/2%20(1).png?raw=true" width="400"></p>
 
 This image was created with Google Gemini; it has good quality in creating realistic images, and when mixed with a prompt it works magic, and you have a completely realistic and natural image.
 
