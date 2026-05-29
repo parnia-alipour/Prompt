@@ -274,6 +274,11 @@ Bring this person to life while standing in a military camp in the heart of the 
 
 ```No CGI effects```, ```no cartoonish look```, ```no plastic skin```, ```no artificial shine```, ```no unrealistic lighting```, ```no over-sharpening```.
 
+![demo](gif/Kourosh.gif)
 
+-----
+
+
+![demo](gif/Kourosh2.gif)
 
 
