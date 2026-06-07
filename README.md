@@ -287,7 +287,7 @@ Bring this person to life while standing in a military camp in the heart of the 
 ### Prompt for bringing historical figures to life
 
 Bring this portrait to life with a completely natural, photorealistic style, high detail, realistic skin texture, natural lighting, ultra realistic
-
+(Generated with ChatGPT)
 
 
 ---
