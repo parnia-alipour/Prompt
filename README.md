@@ -282,3 +282,16 @@ Bring this person to life while standing in a military camp in the heart of the 
 ![demo](gif/Kourosh2.gif)
 
 
+
+---
+### Prompt for bringing historical figures to life
+
+
+---
+### Prompt for gaming style:
+
+(For the idea of making a video for yourself) The gaming and play style is a nice style✨
+
+
+
+
