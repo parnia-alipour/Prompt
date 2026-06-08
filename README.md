@@ -289,12 +289,23 @@ Bring this person to life while standing in a military camp in the heart of the 
 Bring this portrait to life with a completely natural, photorealistic style, high detail, realistic skin texture, natural lighting, ultra realistic
 (Generated with ChatGPT)
 
+***Queen Catherine de' Medici from Florence, Italy, and former queen of France:***
 
-![im1](https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/Q2.jpg?raw=true)
+[About she](https://www.bing.com/ck/a?!&&p=1494ac897ad1928f4888c11e0b032f903709d379b42df18f42cd534a62aef19bJmltdHM9MTc4MDg3NjgwMA&ptn=3&ver=2&hsh=4&fclid=0e0bc2c0-78f0-62c3-10e6-d47c799163ab&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ2F0aGVyaW5lX2RlJTI3X01lZGljaQ)
 
-![im2](https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/Q.png?raw=true)
 
----
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/parnia-alipour/Prompt/master/for%20readme/Q2.jpg" width="400"><br><br>
+  
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/parnia-alipour/Prompt/master/for%20readme/Q.png" width="560"></td>
+      <td><img src="https://raw.githubusercontent.com/parnia-alipour/Prompt/master/for%20readme/QQQ.png" width="300"></td>
+    </tr>
+  </table>
+</div>
+
 ### Prompt for gaming style:
 
 (For the idea of making a video for yourself) The gaming and play style is a nice style✨
