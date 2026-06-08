@@ -290,6 +290,10 @@ Bring this portrait to life with a completely natural, photorealistic style, hig
 (Generated with ChatGPT)
 
 
+![im1](https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/Q2.jpg?raw=true)
+
+![im2](https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/Q.png?raw=true)
+
 ---
 ### Prompt for gaming style:
 
