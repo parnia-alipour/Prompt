@@ -297,16 +297,13 @@ Bring this portrait to life with a completely natural, photorealistic style, hig
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/parnia-alipour/Prompt/master/for%20readme/Q2.jpg" width="400"><br><br>
- Result:
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/parnia-alipour/Prompt/master/for%20readme/Q.png" width="560"></td>
-      <td><img src="https://raw.githubusercontent.com/parnia-alipour/Prompt/master/for%20readme/QQQ.png" width="300"></td>
+      <td><img src="https://raw.githubusercontent.com/parnia-alipour/Prompt/master/for%20readme/Q2.jpg" width="400"></td>
+      <td><img src="https://raw.githubusercontent.com/parnia-alipour/Prompt/master/for%20readme/QQQ.png" width="400"></td>
     </tr>
   </table>
 </div>
-
 
 <div align="center">
 another:
