@@ -308,15 +308,19 @@ Bring this portrait to life with a completely natural, photorealistic style, hig
 </div>
 
 
-                                                       another:
+<div align="center">
+another:
 
-[About he](https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84_%DB%8C%DA%A9%D9%85)
   <table>
     <tr>
-      <td><img src="https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/king.jpg?raw=true" width="560"></td>
-      <td><img src="https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/sma.png?raw=true" width="550"></td>
+      <td><img src="https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/king.jpg?raw=true" width="360"></td>
+      <td><img src="https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/sma.png?raw=true" width="350"></td>
     </tr>
   </table>
+</div>
+
+[About he](https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84_%DB%8C%DA%A9%D9%85)
+
 
 ### Prompt for gaming style:
 
