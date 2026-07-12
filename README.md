@@ -14,7 +14,7 @@ Build for me {```Product Name```: you can use the photo I uploaded} {```Inspired
 for example, Elon Musk {```Style Type``` } with the above details and studio lighting {Additional description about the environment, character, and idea you have in mind that you want to be created...}
 
 
-
+from James Phoenix and Mike Taylor
 
 ---
 ### **A prompt for generating a product name or a store name:**
@@ -24,6 +24,9 @@ Generate ten perfect names for {```product```} {```Inspired by:``` (**this part 
 ```seed word```: words you want in the name,
 ```product names```: close to the product and give a few easy examples. 
 Put the names in a table and score them based on catchiness, uniqueness, simplicity. Apply the Goody function to each name and give a score based on the Goody function.
+
+from James Phoenix and Mike Taylor
+
 
 <div align="center">
   <img src="https://github.com/parnia-alipour/Prompt/blob/master/for%20readme/1.png?raw=true" width="700" />
@@ -47,17 +50,19 @@ Translator:
 ## **A prompt for detecting whether comments and messages are positive or negative (very useful for creating data in CSV format for GPT):**
 
 
-Positive: My friend Sara bought a Gucci t-shirt from this store yesterday. She was really satisfied with it and kept praising it. At first, I thought this store was selling fake Gucci items, but after checking the quality of the clothes, the logo on the back, and doing some research online about this model, I was sure it’s authentic. I also ordered one for myself from them.
+Positive: My friend Sara bought a Gucci t shirt from this store yesterday. She was really satisfied with it and kept praising it. At first, I thought this store was selling fake Gucci items, but after checking the quality of the clothes, the logo on the back, and doing some research online about this model, I was sure it’s authentic. I also ordered one for myself from them.
 
 Negative: Yesterday, I went into a shoe store that claimed to sell authentic items and bought a pair of Nike shoes. It felt like I was wearing boots they were so heavy on my feet, and the material was really awful. I asked some of my friends who always buy branded items, and I found out they gave me a fake pair.
 
 Predict: My dad and mom bought me a super cute wool sweater for my birthday as a gift, and I love it. The more I look at it, the more excited I get.
 
+from James Phoenix and Mike Taylor
 
 ---
 ## **A prompt for easily explaining difficult concepts:**
 
 Please explain the topic {...} as if you are talking to a 5-year-old (depending on your choice, it can also be a teenager, a student, etc.).
+from James Phoenix and Mike Taylor
 
 
 ---
@@ -70,6 +75,7 @@ Sometimes we want to write an article or a book, and GPT tokens may not support 
 Can you give me a general structure and writing format for an article on {digital marketing}?
 
 When AI has structured it for you, then ask it to explain each section fully and in detail, and finally combine all the writing components together for you.😊
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -86,6 +92,7 @@ Step 2: Now translate the summarized text into Spanish and place it next to "tra
 Set your GPT or AI to search mode and ask it to gather information from the web about the topic you want to present. You can request this information in CSV or PowerPoint format, and it will share it with you for download (●'◡'●).
 
 Please gather information about {artificial intelligence}, including the first people who developed it, its current status in today’s world, and its perception among the public, and present it to me as a professionally designed PowerPoint.
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -94,6 +101,7 @@ Please gather information about {artificial intelligence}, including the first p
 To get complete information about any topic, another way is to introduce yourself as an important person related to that topic and ask them to help you and provide the requested information🫡
 
 I am a {professional marketer with a PhD in marketing}. Please explain the topic of marketing strategy in full for those who don’t know, and guide me in completing my article.
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -110,6 +118,7 @@ I want you to answer the following question only by referring to the above text 
 
 Is a marketer someone who buys and sells fruit?(It will definitely answer "I don’t know" because the information is not in the triple quotes.
 )
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -122,6 +131,7 @@ Sometimes you can get help from the AI itself to create a prompt about the topic
 
 
 2_I am a prompt writing expert. Can you give me a prompt structure for generating an image of my product?
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -136,6 +146,7 @@ Information about yourself:
 and...
 
 {Before writing the letter, if you don’t have all the necessary information to perform the task, avoid doing it and ask for more information.}(This part is very important because it prevents the message from being too simple or incomplete.)
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -144,6 +155,7 @@ and...
 Summarize the text enclosed in triple quotation marks: """My father is happy"""
 Now compare the summarized text, enclosed in triple quotation marks, with [My father is happy].
 Provide a final answer indicating whether the text in brackets and the summarized text are similar in meaning or not.
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -153,6 +165,7 @@ This is the magic sentence: ```Take it step by step```
 By just saying this sentence, the AI’s hallucination rate is greatly reduced or it may not hallucinate at all.
 
 Please go step by step and tell me the number of smokers in the world.
+from James Phoenix and Mike Taylor
 
 
 
@@ -163,6 +176,7 @@ Create an article with 20 subheadings about the 2008 financial crisis.
 Like one of the previous examples, we copy each section that is sent to us and send it back, asking it to explain that section fully, in detail, and usefully.
 
 ***The reason for doing this is the token limitation in GPT, which we mentioned earlier in one of the examples***
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -201,6 +215,10 @@ So if you’re tired today, that’s okay. If you feel lost, that’s natural. J
 For the text enclosed in triple quotation marks, please choose the single best title you think is most suitable. If you don’t have a useful and professional title, just say “I don’t know” and provide 5 titles that you think are not bad.
 
 **Title**:
+
+
+
+from James Phoenix and Mike Taylor
 ___
 
 ### **A prompt for generating images or videos:**
@@ -218,6 +236,7 @@ One of the ways you can make your work easier is by converting your text into JS
  
   }
 ```
+from James Phoenix and Mike Taylor
 
 ---
 
@@ -230,12 +249,14 @@ Section 1:{.....}
 
 
 Section 2:{.....}
+from James Phoenix and Mike Taylor
 
 ---
 
 ### **A prompt for getting better results in any topic:**
 
 You are a {{professional marketing expert}} who can answer any question related to this topic. You are highly skilled and intelligent in your field and capable of answering any question by researching, not by making things up. If the user asks you not to use complicated or fancy words, explain the topic in a simpler and clearer way. Otherwise, provide the most professional and advanced explanation you can.
+from James Phoenix and Mike Taylor
 
 ---
 
