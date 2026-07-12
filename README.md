@@ -8,15 +8,6 @@
 
 #  Text Prompts 📝
 
-## **Prompt for creating images to advertise products:**
-
-Build for me {```Product Name```: you can use the photo I uploaded} {```Inspired by```: this part is optional, you can leave it blank or say, 
-for example, Elon Musk {```Style Type``` } with the above details and studio lighting {Additional description about the environment, character, and idea you have in mind that you want to be created...}
-
-
-from James Phoenix and Mike Taylor
-
----
 ### **A prompt for generating a product name or a store name:**
 
 
@@ -233,22 +224,6 @@ For the text enclosed in triple quotation marks, please choose the single best t
 from James Phoenix and Mike Taylor
 ___
 
-### **A prompt for generating images or videos:**
-
-One of the ways you can make your work easier is by converting your text into JSON format.
-
-```json
-{
-  "vibe": "{}",
-  "style": "{}",
-  "traitsPersonality, physical appearance, and moral traitsPersonality, physical appearance, and moral traits": "{}",
-  "age": "{}",
-    "Description":"{}",
-    "The place where he/she is present":"{}"
- 
-  }
-```
-from James Phoenix and Mike Taylor
 
 
 ---
@@ -337,6 +312,18 @@ another:
 
 [About he](https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84_%DB%8C%DA%A9%D9%85)
 
+---
+
+
+## **Prompt for creating images to advertise products:**
+
+Build for me {```Product Name```: you can use the photo I uploaded} {```Inspired by```: this part is optional, you can leave it blank or say, 
+for example, Elon Musk {```Style Type``` } with the above details and studio lighting {Additional description about the environment, character, and idea you have in mind that you want to be created...}
+
+
+from James Phoenix and Mike Taylor
+
+---
 
 
 # Video Prompts🎬
@@ -363,6 +350,26 @@ Bring this person to life while standing in a military camp in the heart of the 
 
 ![demo](gif/Kourosh2.gif)
 
+
+---
+
+### **A prompt for generating images or videos:**
+
+One of the ways you can make your work easier is by converting your text into JSON format.
+
+```json
+{
+  "vibe": "{}",
+  "style": "{}",
+  "traitsPersonality, physical appearance, and moral traitsPersonality, physical appearance, and moral traits": "{}",
+  "age": "{}",
+    "Description":"{}",
+    "The place where he/she is present":"{}"
+ 
+  }
+```
+from James Phoenix and Mike Taylor
+---
 
 ### Prompt for gaming style:
 
