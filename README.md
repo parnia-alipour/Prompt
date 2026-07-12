@@ -6,7 +6,7 @@
 
 ### Dear ones, the photos uploaded in the repo are for you to get ideas and for generating images with different styles; you can use them.🫡✨
 
-
+#  Text Prompts 📝
 
 ## **Prompt for creating images to advertise products:**
 
@@ -250,19 +250,6 @@ One of the ways you can make your work easier is by converting your text into JS
 ```
 from James Phoenix and Mike Taylor
 
----
-
-### **A prompt for generating images or videos:(2)**
-
-You can split the text into sections to generate images or videos more effectively.
-
-Section 1:{.....}
-
-
-
-Section 2:{.....}
-
-from James Phoenix and Mike Taylor
 
 ---
 
@@ -273,6 +260,8 @@ You are a {{professional marketing expert}} who can answer any question related 
 from James Phoenix and Mike Taylor
 
 ---
+
+#  Image Prompts🖼️
 
 ### Prompt for generating realistic images and videos:
 
@@ -294,31 +283,26 @@ This image was created with Google Gemini; it has good quality in creating reali
 
 
 ---
-### Professional prompt for generating a video with a completely realistic style
+
+### **A prompt for generating images or videos:(2)**
+
+You can split the text into sections to generate images or videos more effectively.
+
+Section 1:{.....}
 
 
-Vertical 9:16 video with ```8K quality```, ```ultra realistic```, and ```completely cinematic```.
-Bring this person to life while standing in a military camp in the heart of the desert, before the start of the war. Military tents are placed all over the field, and their fabric gently moves with the soft warm desert breeze. Soldiers in the background are calmly and naturally moving around preparing equipment, with ```organic and realistic movements```.
 
-```Very high facial detail```, ```natural skin texture``` along with ```subtle and realistic imperfections```, ```accurate display of skin pores```, ```natural skin tone``` and ```without yellowish skin```. The character is wearing a full military hat that is not half-worn or defective.
-
-```Slow``` and ```cinematic``` camera movement toward the character’s face (```gentle push-in```), with ```minimal natural movement``` and ```slight movement caused by breathing```.
-
-```Filmed with a 35mm lens```, shallow depth of field and ```deep cinematic composition```.
-```Appearance similar to filming with a professional DSLR camera```, ```subtle noise like real film```, ```natural color grading```.
-
-```No CGI effects```, ```no cartoonish look```, ```no plastic skin```, ```no artificial shine```, ```no unrealistic lighting```, ```no over-sharpening```.
-
-![demo](gif/Kourosh.gif)
-
------
+Section 2:{.....}
 
 
-![demo](gif/Kourosh2.gif)
-
+from James Phoenix and Mike Taylor
 
 
 ---
+
+
+
+
 ### Prompt for bringing historical figures to life
 
 Bring this portrait to life with a completely natural, photorealistic style, high detail, realistic skin texture, natural lighting, ultra realistic
@@ -352,6 +336,32 @@ another:
 </div>
 
 [About he](https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84_%DB%8C%DA%A9%D9%85)
+
+
+
+# Video Prompts🎬
+
+### Professional prompt for generating a video with a completely realistic style
+
+
+Vertical 9:16 video with ```8K quality```, ```ultra realistic```, and ```completely cinematic```.
+Bring this person to life while standing in a military camp in the heart of the desert, before the start of the war. Military tents are placed all over the field, and their fabric gently moves with the soft warm desert breeze. Soldiers in the background are calmly and naturally moving around preparing equipment, with ```organic and realistic movements```.
+
+```Very high facial detail```, ```natural skin texture``` along with ```subtle and realistic imperfections```, ```accurate display of skin pores```, ```natural skin tone``` and ```without yellowish skin```. The character is wearing a full military hat that is not half-worn or defective.
+
+```Slow``` and ```cinematic``` camera movement toward the character’s face (```gentle push-in```), with ```minimal natural movement``` and ```slight movement caused by breathing```.
+
+```Filmed with a 35mm lens```, shallow depth of field and ```deep cinematic composition```.
+```Appearance similar to filming with a professional DSLR camera```, ```subtle noise like real film```, ```natural color grading```.
+
+```No CGI effects```, ```no cartoonish look```, ```no plastic skin```, ```no artificial shine```, ```no unrealistic lighting```, ```no over-sharpening```.
+
+![demo](gif/Kourosh.gif)
+
+-----
+
+
+![demo](gif/Kourosh2.gif)
 
 
 ### Prompt for gaming style:
