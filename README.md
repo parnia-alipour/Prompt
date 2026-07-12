@@ -86,6 +86,8 @@ Step 1: Take any text enclosed in triple quotation marks, summarize it, and plac
 
 Step 2: Now translate the summarized text into Spanish and place it next to "translate."
 
+from James Phoenix and Mike Taylor
+
 
 ---
 
@@ -122,6 +124,7 @@ I want you to answer the following question only by referring to the above text 
 
 Is a marketer someone who buys and sells fruit?(It will definitely answer "I don’t know" because the information is not in the triple quotes.
 )
+
 from James Phoenix and Mike Taylor
 
 ---
@@ -266,6 +269,7 @@ from James Phoenix and Mike Taylor
 ### **A prompt for getting better results in any topic:**
 
 You are a {{professional marketing expert}} who can answer any question related to this topic. You are highly skilled and intelligent in your field and capable of answering any question by researching, not by making things up. If the user asks you not to use complicated or fancy words, explain the topic in a simpler and clearer way. Otherwise, provide the most professional and advanced explanation you can.
+
 from James Phoenix and Mike Taylor
 
 ---
