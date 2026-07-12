@@ -373,8 +373,6 @@ from James Phoenix and Mike Taylor
 
 ### Prompt for gaming style:
 
-(For the idea of making a video for yourself) The gaming and play style is a nice style✨
-
-
+(For the idea of making a video for yourself) The **gaming** and play style is a nice style✨
 
 
