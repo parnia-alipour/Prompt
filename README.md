@@ -368,7 +368,10 @@ One of the ways you can make your work easier is by converting your text into JS
  
   }
 ```
+
+
 from James Phoenix and Mike Taylor
+
 ---
 
 ### Prompt for gaming style:
