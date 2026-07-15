@@ -224,7 +224,12 @@ For the text enclosed in triple quotation marks, please choose the single best t
 from James Phoenix and Mike Taylor
 ___
 
+### Prompt for Evaluating Your Work and Projects:
 
+I am an employer at a {your company's field of activity} company, and I am looking for a {job title and what you want} for my company. This person has sent me their resume, but I am not sure if they are really a good fit for my company or not. Please help me (if you have a GitHub link, please provide it). Please tell me their strengths and weaknesses. Is this person worth hiring?
+
+This prompt will give you a solid basis for evaluation.
+If you are strict and want to take a more conservative approach, just write at the beginning of the sentence: **I am an organized employer and the quality of work is important to me**"
 
 ---
 
