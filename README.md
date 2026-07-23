@@ -241,6 +241,24 @@ from James Phoenix and Mike Taylor
 
 ---
 
+### **Prompt for getting accurate historical and archaeological information:**
+
+I have recently noticed that hallucinations in AI chats have increased significantly.to receive reliable and trustworthy answers, you must use the 'Web Search' tool and base your response strictly on documents, credible sources, and information that actually exists on websites.
+
+Please use the web Search tool to gather accurate and well-documented information about {**Xerxes the Achaemenid king**}.
+strict rules to follow:
+1. use ONLY reputable historical sources, academic encyclopedias {**such as Encyclopaedia Iranica, Encyclopaedia Britannica and Wikipedia**}, and verified archaeological records.
+2. for every single claim you make, you must cite the source link (URL) at the end of the sentence.
+3. if sufficient information cannot be found in reputable sources, explicitly state: "No reliable information was found." Under no circumstances should you add or fabricate any information from your internal knowledge base.
+4. categorize the gathered information into two distinct sections:
+internal Sources {**Inscriptions and Iranian artifacts**}
+external Sources {**Greek historians and global encyclopedias and Wikipedia**}
+5. if there are any contradictions between internal and external sources, you must explicitly point out and explain these contradictions.
+Do not deviate from these rules. Begin your search now.
+
+
+for the AI prompt you are using, please fill in the {} with the specific details or keywords you need. In the sources section, you can also include the names of reliable historical and archaeological institutions or databases from your own country.
+
 #  Image Prompts🖼️
 
 ### Prompt for generating realistic images and videos:
